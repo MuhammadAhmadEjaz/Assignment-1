@@ -1,0 +1,32 @@
+HTML Questions
+
+1.	HTML stands for “Hypertext Markup Language” and CSS stands for “Cascading Style Sheets”
+2.	HTML will be used to put paragraphs of text on a webpage.
+3.	CSS will be used to style the font and background color.
+4.	An HTML tag is a piece of code that represents an object in the DOM.
+5.	Three parts of an HTML tag are the opening tag, content, and closing tag.
+6.	The doctype lets the browser know about the type of document.
+7.	HTML element lets the browser know about the start and end of the document.
+8.	Head element contains all the metadata about the document that is not shown to the user.
+9.	The body element contains all the html tags that make up the DOM.
+10.	A paragraph is created by writing the content in the p tag
+11.	A heading can be created with 6 tags that are from h1 to h6, h1 being the largest font. The content of the heading is written inside the tags
+12.	There are 6 different levels of headings from h1 to h6, h1 being the largest font.
+13.	The “strong” tag is used to make the text bold and important.
+14.	“em” tag is used to make the tag italic and emphasized.
+15.	The element outside is the parent to the element nested inside.
+16.	They have sibling relationship.
+17.	Html comments are created by writing content inside <!-- --!> or by pressing ctrl +/.
+18.	“ul” tag is used for un ordered list.
+19.	“ol” tag is used for ordered list.
+20.	“li”
+21.	“a” tag or anchor tag.
+22.	 href
+23.	Attribute is additional information written in the starting tag of an HTML element.
+24.	Absolute link stays the same no matter the nesting of an element in directory structure. And relative link has a path relative to the path of the file.
+25.	Img
+26.	Src and alt
+27.	By writing “../”
+28.	Jpg, png, gif and svg.
+
+
